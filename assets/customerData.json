@@ -1,0 +1,37 @@
+{
+"data" : [
+    {
+        "customerid":2564,
+        "name": "Michael",
+        "emailid":"michaelelizabeth@yahoo.com",
+        "city":"Bedford",
+        "state":"Bedford",
+        "country":"England",
+        "address1":"Bedford Magistrates' Courts, on the River Ouse at Bedford, Bedfordshire, England",
+        "address2":"Bedford Magistrates' Courts, on the River Ouse at Bedford, Bedfordshire, England",
+        "hobbies":["cricket","football","tennis"]
+    },
+    {
+        "customerid":8564,
+        "name": "James",
+        "emailid":"jamesmary@gmail.com",
+        "city":"Melbourne",
+        "state":"Victoria",
+        "country":"Australia",
+        "address1":"Southbank area",
+        "address2":"Melbourne Arts Precinct, Arts Centre Melbourne",
+        "hobbies":["cricket","football","tennis"]
+    },
+    {
+        "customerid":3529,
+        "name": "Robert",
+        "emailid":"robertpatricia@gmail.com",
+        "city":"Winnipeg",
+        "state":"Manitoba",
+        "country":"Canada",
+        "address1":"1600 Ness Ave #300, Winnipeg, MB R3J 3W7, Canada",
+        "address2":"Fredrick St, Carberry, MB R0K 0H0, Canada",
+        "hobbies":["cricket","football","reading"]
+    }
+]
+}
