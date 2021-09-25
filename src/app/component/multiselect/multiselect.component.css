@@ -1,0 +1,9 @@
+.select-options{
+    border: 1px solid #ced4da;
+    box-shadow: 3px 3px 9px 3px #ced4da;
+    width: 100%;
+}
+
+.form-control[readonly] {
+    background-color:transparent;
+}

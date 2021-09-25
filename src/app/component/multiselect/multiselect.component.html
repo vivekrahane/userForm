@@ -1,0 +1,9 @@
+<div class="select-list position-relative">
+    <input type="text" readonly [(ngModel)]="selectOptions" class="form-control" placeholder="Select hobbies" (click)="dropDownPanel = !dropDownPanel">
+    <div *ngIf="dropDownPanel" class="select-options position-absolute p-3" >
+      <div class="option" *ngFor="let option of hobbies"> 
+          <input type="checkbox" value="option.label" [checked]="option.selected" (click)="selectdHobbies(option)"/>
+          <label for="option1" class="ml-2">{{option.label}}</label>
+      </div>
+    </div>
+  </div>
